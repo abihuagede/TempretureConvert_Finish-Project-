@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Temperature Converter</title>
+ <link rel="stylesheet" href="ctfproject.css">
+</head>
+<body>
+   <nav>
+    <ul>
+      <li>Created By:<Span id="me"></Span></li>
+    </ul>
+   </nav>
+  <div class="converter">
+    <h2>Celsius to Fahrenheit</h2>
+    <input type="number" id="celsiusInput" placeholder="Enter Celsius" />
+    <button onclick="convertCelsius()">Convert</button>
+    <p id="celsiusResult"></p>
+  </div>
+
+  <div class="converter">
+    <h2>Fahrenheit to Celsius</h2>
+    <input type="number" id="fahrenheitInput" placeholder="Enter Fahrenheit" />
+    <button onclick="convertFahrenheit()">Convert</button>
+    <p id="fahrenheitResult"></p>
+  </div>
+
+   <script src="ctfproject.js"></script>
+
+</body>
+</html>
