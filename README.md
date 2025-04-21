@@ -27,3 +27,8 @@ Check out the live project here: [Temperature Converter](https://abihuagede.gith
 1. Clone the repository:
    ```bash
    git clone https://github.com/abihuagede/TempretureConvert_Finish-Project-.git
+
+
+   ## ❤️ Support This Project
+
+If you find this project helpful or interesting, please give it a ⭐️ by clicking the **Star** button at the top of this page. Your support motivates me to keep improving and building more projects like this! Thank you! 😊
